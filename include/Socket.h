@@ -78,25 +78,6 @@ public:
 };
 
 
-#ifdef TEST
-class SocketTCP : public Socket
-{
-private:
-
-public:
-
-};
-
-
-class SocketUDP : public Socket
-{
-private:
-    
-public:
-
-};
-#endif
-
 
 
 
