@@ -33,8 +33,6 @@ reflect all such changes
 ## 
 **For build project:**
 ```
-> cd Inter-Process-Communication 
- 
 > mkdir build
  
 > cd build   
